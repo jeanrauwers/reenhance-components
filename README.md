@@ -186,6 +186,7 @@ const DivRef = () => (
   </RefWatcher>
 );
 ```
+See this Codesandbox as example: [here](https://codesandbox.io/s/n9nln0kkq0)
 
 ### Compose (beta)
 
